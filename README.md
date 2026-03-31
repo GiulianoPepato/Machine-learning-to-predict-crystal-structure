@@ -1,6 +1,6 @@
 # 🔬 Machine Learning para Predição de Estrutura Cristalina com Features Atômicas
 
-> Iniciação Científica — Universidade Federal do ABC (UFABC)
+> Iniciação Científica — Universidade de São Paulo (USP)
 > Orientador: Prof. Dr. Gustavo Dalpian | Financiamento: CNPq
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
