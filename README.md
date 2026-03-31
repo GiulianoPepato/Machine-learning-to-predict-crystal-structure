@@ -51,7 +51,7 @@ O projeto foi motivado pelo alto custo associado às abordagens tradicionais de 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/GiulianoPepato/Machine-learning-to-predict-crystal_structures.git
    cd seu-repositorio
    ```
 
