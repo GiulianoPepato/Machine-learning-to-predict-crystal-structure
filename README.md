@@ -91,7 +91,7 @@ Foram geradas nuvens para:
      Insira aqui um exemplo de nuvem de probabilidade gerada (screenshot ou exportação do HTML).
      Exemplo: ![Nuvem de Probabilidade - Estrutura Cúbica](images/nuvem_cubica.png)
 --> 
-![Nuvem de probabilidade da estrutura monoclinica do treinamento](imagens/Nuvem_de_Probabilidade_Monoclinica_Treinamento.jpg)
+![Nuvem de probabilidade da estrutura monoclinica do treinamento](imagens/Nuvem_de_Probabilidade_Monoclinico_Treinamento.jpg)
 
 ---
 
